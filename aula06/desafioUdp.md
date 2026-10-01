@@ -5,7 +5,7 @@ Interface Gráfica: O cliente deve possuir uma interface gráfica desenvolvida e
 Comunicação: Todo o envio e recebimento de dados deve ser feito via protocolo UDP.
 Dinâmica e Funcionamento da Arquitetura
 1. Cadastro do Cliente
-O cliente inicia o contato com o servidor enviando seu nome completo e e-mail.
+O cliente inicia o contats com o servidor enviando seu nome completo e e-mail.
 O servidor deve registrar o usuário em uma lista interna utilizando a classe Pessoa (conforme visto em aula).
 O servidor deve controlar e impedir cadastros duplicados.
 2. Autenticação por Chave Temporária (Token)
